@@ -38,7 +38,6 @@ I'm particularly interested in **back-end development, databases, web applicatio
 * Git
 * GitHub
 * VS Code
-* Linux
 * GitHub Codespaces
 
 ---
