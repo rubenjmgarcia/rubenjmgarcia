@@ -76,9 +76,8 @@ The application allows users to:
 
 * **CS50's Web Programming with Python and JavaScript (CS50W)** — Harvard University
 
-**Tech Academy — Certified Specialist in Information Systems Technologies and Programming**  
+* **Tech Academy — Certified Specialist in Information Systems Technologies and Programming**  
 *September 2026 – July 2027*
-
 A **1,225-hour professional training program**, comprising **825 hours of technical training and 400 hours of practical internship experience**, covering software development, web and mobile development, Python, Java, C#, databases, AI, systems administration, and collaborative development with Git and GitHub.
 
 ---
