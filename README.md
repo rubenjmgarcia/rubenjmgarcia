@@ -76,8 +76,6 @@ The application allows users to:
 
 * **CS50's Web Programming with Python and JavaScript (CS50W)** — Harvard University
 
-### Upcoming
-
 **Tech Academy — Certified Specialist in Information Systems Technologies and Programming**  
 *September 2026 – July 2027*
 
