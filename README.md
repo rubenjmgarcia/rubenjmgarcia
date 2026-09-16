@@ -1,6 +1,6 @@
 # Hi, I'm Ruben 👋
 
-### Aspiring Back-end Developer | Python • SQL • Flask • Web Development
+### Back-end Developer in training| Python • SQL • Flask • Web Development
 
 I'm transitioning into software development after more than **10 years of experience in operational leadership and team management**.
 
